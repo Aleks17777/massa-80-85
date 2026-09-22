@@ -1,4 +1,4 @@
-const CACHE = "massa-80-85-v1";
+const CACHE = "massa-80-85-v2";
 const ASSETS = ["./", "./index.html", "./manifest.json", "./icon.svg"];
 
 self.addEventListener("install", event => {
